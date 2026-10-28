@@ -647,13 +647,13 @@
         "uuid": "63b2c836-08da-46d0-ba2b-3d7f0128728d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1",
     "variants": []
   },
   "sheets": [
     [
       "63b2c836-08da-46d0-ba2b-3d7f0128728d",
-      "Remote_Arming"
+      "Ground-Powering-Unit"
     ]
   ],
   "text_variables": {},

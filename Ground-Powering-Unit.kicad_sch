@@ -1692,7 +1692,7 @@
 		)
 		(uuid "e5d7b653-3482-4cba-b87c-ab6922a00380")
 	)
-	(text "Remote Arming System:"
+	(text "Ground Power Unit:"
 		(exclude_from_sim no)
 		(at 64.262 21.336 0)
 		(effects
@@ -14679,7 +14679,7 @@
 			(uuid "7e29a9f1-19bf-4e2f-aee6-5650d5a28c86")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR04")
 					(unit 1)
@@ -14759,7 +14759,7 @@
 			(uuid "e3672b8e-ac55-4273-87ed-c0c599acb465")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "D3")
 					(unit 1)
@@ -14840,7 +14840,7 @@
 			(uuid "b613b65a-846e-4fac-ba71-976ed2f8caea")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "C4")
 					(unit 1)
@@ -14922,7 +14922,7 @@
 			(uuid "26c84df2-25b2-4b26-b34f-c028c62f5f10")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "J2")
 					(unit 1)
@@ -15000,7 +15000,7 @@
 			(uuid "559298cd-0cfe-465f-8321-af9d22508cc6")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR07")
 					(unit 1)
@@ -15078,7 +15078,7 @@
 			(uuid "defb4f65-89ff-4210-9790-f7c9547376cd")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR010")
 					(unit 1)
@@ -15158,7 +15158,7 @@
 			(uuid "3a32dce7-eb1d-47f2-b2f0-b33c809aeba4")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "L1")
 					(unit 1)
@@ -15240,7 +15240,7 @@
 			(uuid "a15ebf0d-07fe-4795-977e-22ed2573d922")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "D2")
 					(unit 1)
@@ -15322,7 +15322,7 @@
 			(uuid "ff149e41-a593-446d-b99a-40dfdcaaad8a")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "C5")
 					(unit 1)
@@ -15406,7 +15406,7 @@
 			(uuid "667e167e-a646-4f56-95c5-c11abe964f7d")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "U2")
 					(unit 1)
@@ -15484,7 +15484,7 @@
 			(uuid "fd78bc69-f834-4381-a85f-df5203050f60")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR03")
 					(unit 1)
@@ -15566,7 +15566,7 @@
 			(uuid "8ab0214c-21a8-4556-9d6a-259c720b8dfa")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "C2")
 					(unit 1)
@@ -15644,7 +15644,7 @@
 			(uuid "7868650b-5c5d-4932-81ad-6bb3d883aa83")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR011")
 					(unit 1)
@@ -15722,7 +15722,7 @@
 			(uuid "82ef6f38-b58f-4d79-a3e7-bdb00c54ee56")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR09")
 					(unit 1)
@@ -15803,7 +15803,7 @@
 			(uuid "d88fbfb0-3ab0-481e-8f8b-e64333c0cfa5")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "C3")
 					(unit 1)
@@ -15885,7 +15885,7 @@
 			(uuid "6dd7aaf6-8880-48c9-be98-4915678af6e3")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "C1")
 					(unit 1)
@@ -15963,7 +15963,7 @@
 			(uuid "3d3372ef-8734-4fc6-80cd-388db472ff77")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR05")
 					(unit 1)
@@ -16045,7 +16045,7 @@
 			(uuid "815d074a-2a62-4852-9be9-a479fbe3116c")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "J4")
 					(unit 1)
@@ -16123,7 +16123,7 @@
 			(uuid "7be8cacf-f77c-46b4-9a4b-098e26cbfa09")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR06")
 					(unit 1)
@@ -16201,7 +16201,7 @@
 			(uuid "e4819490-5c7a-454d-b335-198b7506e4fc")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "#PWR08")
 					(unit 1)
@@ -16283,7 +16283,7 @@
 			(uuid "9a48de81-b601-44e9-81d2-930c42e1c08b")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "J3")
 					(unit 1)
@@ -16398,7 +16398,7 @@
 			(uuid "993ce596-0865-4c5c-b72a-a20d30bca6e1")
 		)
 		(instances
-			(project "Remote_Arming"
+			(project "Ground-Powering-Unit"
 				(path "/63b2c836-08da-46d0-ba2b-3d7f0128728d"
 					(reference "BT1")
 					(unit 1)
